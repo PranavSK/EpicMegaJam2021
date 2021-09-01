@@ -12,5 +12,7 @@ The following assets were used during development -
  - [Hand Painted Knight Character Portal Horde ™](https://skfb.ly/6FVKO) by Lowpolyprincipal is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
  - [Steampunk Shotgun](https://skfb.ly/6XJtz) by AlessandroFortuna is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
  - [Bomb Prop (Normal map)](https://skfb.ly/6WZAC) by Nico Caraballo - theniloart is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+ - [VFX Grenade Pack](https://www.unrealengine.com/marketplace/en-US/product/vfx-grenade-pack) by Gentleman Fred FX.
+ - [Explosions Builder](https://www.unrealengine.com/marketplace/en-US/product/explosions-builder?sessionInvalidated=true) by W3 Studios.
  - [Roman New Times Font](https://www.dafont.com/roman-new-times.font?text=Wolf%27s+Escape&l[]=10&l[]=1&back=theme) by winty5.
  - [Essays 1743 Font](https://www.dafont.com/essays1743.font?l[]=10&l[]=1) by John Stracke.
